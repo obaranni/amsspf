@@ -9,7 +9,7 @@
 - Allows you to donate for file storage
 - Distributes donations to relevant links
 
-![Github All Contributors](https://img.shields.io/github/all-contributors/obaranni/rust_sandbox/master)
+![Github All Contributors](https://img.shields.io/github/all-contributors/obaranni/amsspf)
 
 ## Platforms
 
