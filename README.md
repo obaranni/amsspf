@@ -22,7 +22,7 @@ Mac os | Pending
 ## Links
 
 - See [CHANGELOG.md](./CHANGELOG.md) for major/breaking updates, and
-  [releases](https://github.com/release-it/release-it/releases) for a detailed version history.
+  [releases](https://github.com/obaranni/amsspf/releases) for a detailed version history.
 
 ## Pre requirements
 
