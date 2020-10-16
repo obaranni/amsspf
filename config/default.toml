@@ -1,0 +1,13 @@
+[storage]
+
+storage_path = "storage"
+fl_path = "fl"
+fl_name = "files_list.json"
+
+proof_path = "proof_of_storage"
+block_size = 356
+
+[network]
+
+# Connect with other nodes
+# Check files?
