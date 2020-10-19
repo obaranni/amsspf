@@ -1,5 +1,5 @@
 [package]
-name = "file_checking_network_node"
+name = "amsspf"
 version = "0.1.0"
 authors = ["obaranni <sashkamavashi@gmail.com>"]
 edition = "2018"
